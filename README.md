@@ -2,9 +2,9 @@
 
 One line to text your boss when you cannot come in today: short, believable enough to pass, and funny enough that your coworkers laugh.
 
-![bounty](https://make.fun/badge/u-zeroxfive-the-funniest-sick-day-excuse-37423a36.svg)
-![rank](https://make.fun/badge/u-zeroxfive-the-funniest-sick-day-excuse-37423a36/Indodegen/u-zeroxfive-the-funniest-sick-day-excuse-37423a36/rank.svg)
-![reward](https://make.fun/badge/u-zeroxfive-the-funniest-sick-day-excuse-37423a36/Indodegen/u-zeroxfive-the-funniest-sick-day-excuse-37423a36/reward.svg)
+[![bounty](https://make.fun/badge/u-zeroxfive-the-funniest-sick-day-excuse-37423a36.svg)](https://make.fun/bounty/u-zeroxfive-the-funniest-sick-day-excuse-37423a36)
+[![rank](https://make.fun/badge/u-zeroxfive-the-funniest-sick-day-excuse-37423a36/Indodegen/u-zeroxfive-the-funniest-sick-day-excuse-37423a36/rank.svg)](https://make.fun/bounty/u-zeroxfive-the-funniest-sick-day-excuse-37423a36)
+[![reward](https://make.fun/badge/u-zeroxfive-the-funniest-sick-day-excuse-37423a36/Indodegen/u-zeroxfive-the-funniest-sick-day-excuse-37423a36/reward.svg)](https://make.fun/bounty/u-zeroxfive-the-funniest-sick-day-excuse-37423a36)
 
 Bounty: https://make.fun/bounty/u-zeroxfive-the-funniest-sick-day-excuse-37423a36
 
